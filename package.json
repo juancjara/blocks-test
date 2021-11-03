@@ -12,7 +12,7 @@
     "lint": "eslint .",
     "postinstall": "preconstruct dev",
     "release": "yarn build:packages && changeset publish",
-    "test": "jest",
+    "test-temp": "jest",
     "test:deps": "manypkg check"
   },
   "workspaces": [
