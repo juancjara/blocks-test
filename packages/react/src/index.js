@@ -13,7 +13,7 @@ export { default as HeaderBasic } from './headers/basic'
 //export { default as TaglineBold } from './taglines/bold'
 
 // FOOTERS
-//export { default as FooterBasic } from './footers/basic'
+export { default as FooterBasic } from './footers/basic'
 
 export { default as Button } from './button'
 export { default as TextField } from './textfield'
